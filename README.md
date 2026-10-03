@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:1f6feb,70:8957e5,100:f778ba&height=240&section=header&text=Ewwwgg&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Automation%20%7C%20Clean%20Code&descSize=18&descAlignY=60&animation=twinkling" alt="banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:1f6feb,70:8957e5,100:f778ba&height=240&section=header&text=Ewwwgg&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Code%20%E2%80%A2%20Automate%20%E2%80%A2%20Repeat&descSize=18&descAlignY=60&animation=twinkling" alt="banner" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&height=40&lines=Software+Developer;Python+%7C+C%23+%7C+JavaScript;Automation+%26+Clean+Code;Turning+ideas+into+code" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&height=40&lines=Software+Developer;Automation+enthusiast;Clean+code+lover;Turning+ideas+into+code" alt="typing" />
 
 <br/>
 
 <img src="https://hits.sh/github.com/Ewwwgg.svg?style=for-the-badge&label=Profile%20views&color=1f6feb&labelColor=0d1117" alt="views" />
 <br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="csharp" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
+<a href="mailto:ewgenix1439@gmail.com"><img src="https://img.shields.io/badge/Write%20me-ewgenix1439%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+<br/>
+<img src="https://img.shields.io/badge/Open%20to-collaboration-2ea043?style=for-the-badge" alt="open to collaboration" />
+<img src="https://img.shields.io/badge/Status-always%20learning-8957e5?style=for-the-badge" alt="status" />
 
 </div>
 
@@ -22,17 +22,16 @@
 I'm a developer who loves technology, automation and clean, efficient code.
 I build personal projects, explore new frameworks and constantly level up my skills.
 
-- 🔭 Working on: projects in C# and Python
-- 🌱 Learning: new frameworks, databases, Docker
+- 🔭 Working on: personal projects and automation tools
+- 🌱 Learning: new frameworks and better architecture
 - ⚡ Fun fact: I can automate almost anything that I have to do twice
-- 💬 Ask me about: Python, C#, automation
+- 💬 Ask me about: automation, tools, clean code
 
 ```python
 class Developer:
     name = "Ewwwgg"
-    languages = ["Python", "C#", "JavaScript"]
-    databases = ["PostgreSQL", "MySQL"]
-    tools = ["Git", "Docker", "VS Code"]
+    focus = ["Automation", "Clean code", "Side projects"]
+    open_to = ["Collaboration", "Cool ideas", "New challenges"]
 
     def current_goal(self):
         return "Write code that works and looks good"
@@ -98,7 +97,8 @@ class Developer:
 
 ## 📫 Contact
 
-- GitHub: [@Ewwwgg](https://github.com/Ewwwgg)
+- 📧 Email: [ewgenix1439@gmail.com](mailto:ewgenix1439@gmail.com)
+- 🐙 GitHub: [@Ewwwgg](https://github.com/Ewwwgg)
 <!-- - Telegram: [@username](https://t.me/username) -->
 <!-- - Email: you@example.com -->
 
