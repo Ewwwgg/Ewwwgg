@@ -1,12 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=160&section=header&text=Ewwwgg&fontSize=52&fontColor=ffffff&animation=fadeIn" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:1f6feb,70:8957e5,100:f778ba&height=240&section=header&text=Ewwwgg&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Automation%20%7C%20Clean%20Code&descSize=18&descAlignY=60&animation=twinkling" alt="banner" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Software+Developer;Python+%7C+C%23+%7C+JavaScript;Automation+%26+Clean+Code;Turning+ideas+into+code" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&height=40&lines=Software+Developer;Python+%7C+C%23+%7C+JavaScript;Automation+%26+Clean+Code;Turning+ideas+into+code" alt="typing" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Ewwwgg&label=Profile+views&color=58a6ff&style=for-the-badge" alt="views" />
+<img src="https://hits.sh/github.com/Ewwwgg.svg?style=for-the-badge&label=Profile%20views&color=1f6feb&labelColor=0d1117" alt="views" />
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="csharp" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
 
 </div>
 
@@ -99,6 +104,6 @@ class Developer:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=100&section=footer" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:1f6feb,70:8957e5,100:f778ba&height=120&section=footer" alt="footer" width="100%" />
 
 </div>
