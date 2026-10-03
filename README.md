@@ -1,34 +1,27 @@
 <h1 align="center">Hi, I'm Ewwwgg! 👋</h1>
 
-<p align="center">
-  <a href="mailto:support@it.invest">
-    <img src="https://badgen.net" height="25" alt="Email">
-  </a>
-</p>
-
 ---
 
 ### 👤 About Me
-*I am an aspiring developer passionate about technology, automation, and building clean, efficient code. Currently learning new frameworks and working on personal pet projects.*
+I am an aspiring developer passionate about technology, automation, and building clean, efficient code. Currently learning new frameworks and working on personal pet projects.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-* **Programming & Backend:** 
-  ![Python](https://badgen.net) 
-  ![C#](https://badgen.net) 
-  ![JavaScript](https://badgen.net)
+* **Programming & Backend:**
+  <img src="https://githubusercontent.com" alt="python" width="40" height="40"/> &nbsp;
+  <img src="https://githubusercontent.com" alt="csharp" width="40" height="40"/> &nbsp;
+  <img src="https://githubusercontent.com" alt="javascript" width="40" height="40"/>
 
-* **Tools & Environment:** 
-  ![Git](https://badgen.net) 
-  ![VS Code](https://badgen.net) 
-  ![GitHub Copilot](https://badgen.net)
+* **Tools & Environment:**
+  <img src="https://githubusercontent.com" alt="git" width="40" height="40"/> &nbsp;
+  <img src="https://githubusercontent.com" alt="vscode" width="40" height="40"/>
 
-* **Databases & Infrastructure:** 
-  ![PostgreSQL](https://badgen.net) 
-  ![MySQL](https://badgen.net) 
-  ![Docker](https://badgen.net)
+* **Databases & Infrastructure:**
+  <img src="https://githubusercontent.com" alt="postgresql" width="40" height="40"/> &nbsp;
+  <img src="https://githubusercontent.com" alt="mysql" width="40" height="40"/> &nbsp;
+  <img src="https://githubusercontent.com" alt="docker" width="40" height="40"/>
 
 ---
 
