@@ -22,6 +22,20 @@ I build personal projects, explore new frameworks and constantly level up my ski
 - ⚡ Fun fact: I can automate almost anything that I have to do twice
 - 💬 Ask me about: Python, C#, automation
 
+```python
+class Developer:
+    name = "Ewwwgg"
+    languages = ["Python", "C#", "JavaScript"]
+    databases = ["PostgreSQL", "MySQL"]
+    tools = ["Git", "Docker", "VS Code"]
+
+    def current_goal(self):
+        return "Write code that works and looks good"
+
+    def motto(self):
+        return "If it can be automated, automate it"
+```
+
 ---
 
 ## 🛠 Tech Stack
@@ -55,21 +69,13 @@ I build personal projects, explore new frameworks and constantly level up my ski
 
 ---
 
-## 📈 Contribution Activity
+
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ewwwgg&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="100%" />
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ewwwgg&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies" />
+<img src="https://raw.githubusercontent.com/Ewwwgg/Ewwwgg/output/github-snake-dark.svg" alt="snake animation" width="100%" />
 
 </div>
 
