@@ -1,16 +1,40 @@
 ## Hi there 👋
 
-<!--
-**Ewwwgg/Ewwwgg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Technologies & Tools</h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table align="center">
+  <tr>
+    <!-- Блок Back-end -->
+    <td valign="top" align="center">
+      <kbd>Back-end</kbd><br><br>
+      <img src="https://shields.io" height="35" />
+      <img src="https://shields.io" height="35" />
+      <img src="https://shields.io" height="35" />
+      <img src="https://shields.io" height="35" />
+    </td>
+    <!-- Блок Front-end -->
+    <td valign="top" align="center">
+      <kbd>Front-end</kbd><br><br>
+      <img src="https://shields.io" height="35" />
+      <img src="https://shields.io" height="35" />
+      <img src="https://shields.io" height="35" />
+    </td>
+    <!-- Блок Библиотеки и Фреймворки -->
+    <td valign="top" align="center">
+      <kbd>Library/Frameworks</kbd><br><br>
+      <img src="https://shields.io" height="35" />
+      <img src="https://shields.io" height="35" />
+      <img src="https://shields.io" height="35" />
+    </td>
+    <!-- Блок Другое (Инструменты и БД) -->
+    <td valign="top" align="center">
+      <kbd>Others</kbd><br><br>
+      <img src="https://shields.io" height="35" />
+      <img src="https://shields.io" height="35" />
+      <img src="https://shields.io" height="35" />
+      <img src="https://shields.io" height="35" />
+      <img src="https://shields.io" height="35" />
+      <img src="https://shields.io" height="35" />
+    </td>
+  </tr>
+</table>
