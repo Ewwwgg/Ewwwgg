@@ -87,11 +87,17 @@ class Developer:
 
 ---
 
-## 💭 Quote of the day
+## 🔥 Mindset
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
+### *"Don't stop when you're tired. Stop when you're done."*
+
+**— D.G.**
+
+<br/>
+
+## STAY HARD. 💪
 
 </div>
 
