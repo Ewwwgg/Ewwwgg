@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:1f6feb,70:8957e5,100:f778ba&height=240&section=header&text=Ewwwgg&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Code%20%E2%80%A2%20Automate%20%E2%80%A2%20Repeat&descSize=18&descAlignY=60&animation=twinkling" alt="banner" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&height=40&lines=Software+Developer;Automation+enthusiast;Clean+code+lover;Turning+ideas+into+code" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&height=40&lines=Software+Developer;AI+%26+Automation+enthusiast;Clean+code+lover;Turning+ideas+into+code" alt="typing" />
 
 <br/>
 
@@ -21,16 +21,18 @@
 
 I'm a developer who loves technology, automation and clean, efficient code.
 I build personal projects, explore new frameworks and constantly level up my skills.
+I also automate tasks with AI: I can plug AI models into your workflow, apps and bots so routine work does itself.
 
 - 🔭 Working on: personal projects and automation tools
 - 🌱 Learning: new frameworks and better architecture
 - ⚡ Fun fact: I can automate almost anything that I have to do twice
-- 💬 Ask me about: automation, tools, clean code
+- 🤖 AI automation: integrating AI into apps, bots and workflows (chatbots, text and data processing, task automation)
+- 💬 Ask me about: automation, AI integration, clean code
 
 ```python
 class Developer:
     name = "Ewwwgg"
-    focus = ["Automation", "Clean code", "Side projects"]
+    focus = ["Automation", "AI integration", "Clean code"]
     open_to = ["Collaboration", "Cool ideas", "New challenges"]
 
     def current_goal(self):
