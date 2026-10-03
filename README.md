@@ -9,6 +9,7 @@
 <img src="https://hits.sh/github.com/Ewwwgg.svg?style=for-the-badge&label=Profile%20views&color=1f6feb&labelColor=0d1117" alt="views" />
 <br/>
 <a href="mailto:ewgenix1439@gmail.com"><img src="https://img.shields.io/badge/Write%20me-ewgenix1439%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+<a href="https://t.me/Ewgenchik1"><img src="https://img.shields.io/badge/Telegram-%40Ewgenchik1-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" /></a>
 <br/>
 <img src="https://img.shields.io/badge/Open%20to-collaboration-2ea043?style=for-the-badge" alt="open to collaboration" />
 <img src="https://img.shields.io/badge/Status-always%20learning-8957e5?style=for-the-badge" alt="status" />
@@ -106,9 +107,7 @@ class Developer:
 ## 📫 Contact
 
 - 📧 Email: [ewgenix1439@gmail.com](mailto:ewgenix1439@gmail.com)
-- 🐙 GitHub: [@Ewwwgg](https://github.com/Ewwwgg)
-<!-- - Telegram: [@username](https://t.me/username) -->
-<!-- - Email: you@example.com -->
+- ✈️ Telegram: [@Ewgenchik1](https://t.me/Ewgenchik1)
 
 <div align="center">
 
