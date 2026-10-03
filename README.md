@@ -4,37 +4,26 @@
 
 <table align="center">
   <tr>
-    <!-- Блок Back-end -->
-    <td valign="top" align="center">
-      <kbd>Back-end</kbd><br><br>
-      <img src="https://shields.io" height="35" />
-      <img src="https://shields.io" height="35" />
-      <img src="https://shields.io" height="35" />
-      <img src="https://shields.io" height="35" />
+    <!-- Блок Backend & Programming -->
+    <td valign="top" align="center" width="200">
+      <kbd>Programming & Backend</kbd><br><br>
+      <img src="https://shields.io" height="30" /><br><br>
+      <img src="https://shields.io" height="30" /><br><br>
+      <img src="https://shields.io" height="30" />
     </td>
-    <!-- Блок Front-end -->
-    <td valign="top" align="center">
-      <kbd>Front-end</kbd><br><br>
-      <img src="https://shields.io" height="35" />
-      <img src="https://shields.io" height="35" />
-      <img src="https://shields.io" height="35" />
+    <!-- Блок Tools & AI Environment -->
+    <td valign="top" align="center" width="200">
+      <kbd>Tools & Environment</kbd><br><br>
+      <img src="https://shields.io" height="30" /><br><br>
+      <img src="https://shields.io" height="30" /><br><br>
+      <img src="https://shields.io" height="30" />
     </td>
-    <!-- Блок Библиотеки и Фреймворки -->
-    <td valign="top" align="center">
-      <kbd>Library/Frameworks</kbd><br><br>
-      <img src="https://shields.io" height="35" />
-      <img src="https://shields.io" height="35" />
-      <img src="https://shields.io" height="35" />
-    </td>
-    <!-- Блок Другое (Инструменты и БД) -->
-    <td valign="top" align="center">
-      <kbd>Others</kbd><br><br>
-      <img src="https://shields.io" height="35" />
-      <img src="https://shields.io" height="35" />
-      <img src="https://shields.io" height="35" />
-      <img src="https://shields.io" height="35" />
-      <img src="https://shields.io" height="35" />
-      <img src="https://shields.io" height="35" />
+    <!-- Блок Databases & Storage -->
+    <td valign="top" align="center" width="200">
+      <kbd>Databases & Infrastructure</kbd><br><br>
+      <img src="https://shields.io" height="30" /><br><br>
+      <img src="https://shields.io" height="30" /><br><br>
+      <img src="https://shields.io" height="30" />
     </td>
   </tr>
 </table>
