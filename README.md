@@ -47,17 +47,13 @@ class Developer:
 
 ## 🛠 Tech Stack
 
-**Languages**
+<div align="center">
 
-![Languages](https://skillicons.dev/icons?i=python,cs,js&theme=dark)
+| Languages | Tools | Databases & Infra |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=python,cs,js&theme=dark" alt="languages" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="tools" /> | <img src="https://skillicons.dev/icons?i=postgres,mysql,docker&theme=dark" alt="databases" /> |
 
-**Tools**
-
-![Tools](https://skillicons.dev/icons?i=git,github,vscode&theme=dark)
-
-**Databases & Infrastructure**
-
-![Infra](https://skillicons.dev/icons?i=postgres,mysql,docker&theme=dark)
+</div>
 
 ---
 
