@@ -1,29 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Ewwwgg! 👋</h1>
 
-<h3 align="center">Technologies & Tools</h3>
+<p align="center">
+  <a href="mailto:support@it.invest">
+    <img src="https://badgen.net" height="25" alt="Email">
+  </a>
+</p>
 
-<table align="center">
-  <tr>
-    <!-- Блок Backend & Programming -->
-    <td valign="top" align="center" width="200">
-      <kbd>Programming & Backend</kbd><br><br>
-      <img src="https://shields.io" height="30" /><br><br>
-      <img src="https://shields.io" height="30" /><br><br>
-      <img src="https://shields.io" height="30" />
-    </td>
-    <!-- Блок Tools & AI Environment -->
-    <td valign="top" align="center" width="200">
-      <kbd>Tools & Environment</kbd><br><br>
-      <img src="https://shields.io" height="30" /><br><br>
-      <img src="https://shields.io" height="30" /><br><br>
-      <img src="https://shields.io" height="30" />
-    </td>
-    <!-- Блок Databases & Storage -->
-    <td valign="top" align="center" width="200">
-      <kbd>Databases & Infrastructure</kbd><br><br>
-      <img src="https://shields.io" height="30" /><br><br>
-      <img src="https://shields.io" height="30" /><br><br>
-      <img src="https://shields.io" height="30" />
-    </td>
-  </tr>
-</table>
+---
+
+### 👤 About Me
+*I am an aspiring developer passionate about technology, automation, and building clean, efficient code. Currently learning new frameworks and working on personal pet projects.*
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+* **Programming & Backend:** 
+  ![Python](https://badgen.net) 
+  ![C#](https://badgen.net) 
+  ![JavaScript](https://badgen.net)
+
+* **Tools & Environment:** 
+  ![Git](https://badgen.net) 
+  ![VS Code](https://badgen.net) 
+  ![GitHub Copilot](https://badgen.net)
+
+* **Databases & Infrastructure:** 
+  ![PostgreSQL](https://badgen.net) 
+  ![MySQL](https://badgen.net) 
+  ![Docker](https://badgen.net)
+
+---
+
+### 📊 My GitHub Stats
+
+<div align="center">
+  <img src="https://vercel.app" alt="Top Languages" />
+</div>
